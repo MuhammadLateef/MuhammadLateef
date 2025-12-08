@@ -1,10 +1,20 @@
 <p align="center">
-  <img src="https://github.com/MuhammadLateef/MuhammadLateef/blob/main/1691392591315.jpg" alt="Profile Banner" width="100%">
+  <img src="https://github.com/MuhammadLateef/MuhammadLateef/blob/main/Black%20and%20White%20Minimalist%20Lawyer%20LinkedIn%20Banner.png" alt="Profile Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Muhammad Latif!</h1>
 
-<h3 align="center">🌐 Web & Blockchain Developer | 💡 Smart Contract Enthusiast | 📈 Cryptotrader | Passionate about emerging tech and decentralization 🚀 #WebDev #Blockchain #Cry</h3>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=MuhammadLateef&show_icons=true&locale=en&theme=slateorange&count_private=true&hide_border=true" alt="MuhammadLateef's GitHub Stats" /></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadLateef&locale=en&theme=slateorange&layout=compact&hide_border=true" alt="Top Languages" /></p>
+
+<p align="center"><img src="https://streak-stats.demolab.com/?user=MuhammadLateef&theme=slateorange&hide_border=true" alt="GitHub Streak Stats" /></p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MuhammadLateef&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />   <a href="https://twitter.com/M_Latif129" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/twitter/follow/M_Latif129?logo=x&style=social" alt="Follow @M_Latif129 on Twitter" /></a>
+</p>
+
+<h3 align="center">🌐 Web & Blockchain Developer | 💡 Smart Contract Enthusiast | 📈 Cryptotrader | Passionate about emerging tech and decentralization</h3>
 
 <h3 align="left">More About Me:</h3>
 
@@ -61,13 +71,3 @@
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="45" style="vertical-align: middle; margin: 5px;" />
 </p>
 </div>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=MuhammadLateef&show_icons=true&locale=en&theme=default&count_private=true&hide_border=true" alt="MuhammadLateef's GitHub Stats" /></p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadLateef&locale=en&theme=default&layout=compact&hide_border=true" alt="Top Languages" /></p>
-
-<p align="center"><img src="https://streak-stats.demolab.com/?user=MuhammadLateef&theme=default&hide_border=true" alt="GitHub Streak Stats" /></p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MuhammadLateef&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />   <a href="https://twitter.com/M_Latif129" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/twitter/follow/M_Latif129?logo=x&style=social" alt="Follow @M_Latif129 on Twitter" /></a>
-</p>
