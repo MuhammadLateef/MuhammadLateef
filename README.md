@@ -14,11 +14,11 @@
   <img src="https://komarev.com/ghpvc/?username=MuhammadLateef&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />   <a href="https://twitter.com/M_Latif129" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/twitter/follow/M_Latif129?logo=x&style=social" alt="Follow @M_Latif129 on Twitter" /></a>
 </p>
 
-<h3 align="center">🌐 Web & Blockchain Developer | 💡 Smart Contract Enthusiast | 📈 Cryptotrader | Passionate about emerging tech and decentralization</h3>
+<h3 align="center">Full Stack Developer | Laravel • React • Next.js | DevOps, CI/CD, Docker, APIs & Blockchain</h3>
 
 <h3 align="left">More About Me:</h3>
 
-- 🌱 I’m currently learning: **AI and Computer Vision**
+- 🌱 I’m currently learning: **DevOps, AI, and Computer Vision**
 - 🔭 I’m currently working on: **Murabbi, NUST**
 - 💬 Ask me about: **Wed development, AI/ML algorithms & models and Computer Vision techniques**
 - 📫 How to reach me: [ml129kmg@gmail.com](mailto:ml129kmg@gmail.com)
