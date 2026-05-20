@@ -1,73 +1,95 @@
-<p align="center">
-  <img src="https://github.com/MuhammadLateef/MuhammadLateef/blob/main/Black%20and%20White%20Minimalist%20Lawyer%20LinkedIn%20Banner.png" alt="Profile Banner" width="100%">
-</p>
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Muhammad Latif!</h1>
+# Muhammad Latif
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=MuhammadLateef&show_icons=true&locale=en&theme=slateorange&count_private=true&hide_border=true" alt="MuhammadLateef's GitHub Stats" /></p>
+### Full Stack Developer
+**Laravel · React · Next.js · DevOps · AI/ML · Blockchain**
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadLateef&locale=en&theme=slateorange&layout=compact&hide_border=true" alt="Top Languages" /></p>
+[![Profile Views](https://komarev.com/ghpvc/?username=MuhammadLateef&label=Profile%20views&color=0f6e56&style=flat)](https://github.com/MuhammadLateef)
+[![Twitter Follow](https://img.shields.io/twitter/follow/M_Latif129?logo=x&style=social)](https://twitter.com/M_Latif129)
 
-<p align="center"><img src="https://streak-stats.demolab.com/?user=MuhammadLateef&theme=slateorange&hide_border=true" alt="GitHub Streak Stats" /></p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MuhammadLateef&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />   <a href="https://twitter.com/M_Latif129" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/twitter/follow/M_Latif129?logo=x&style=social" alt="Follow @M_Latif129 on Twitter" /></a>
-</p>
-
-<h3 align="center">Full Stack Developer | Laravel • React • Next.js | DevOps, CI/CD, Docker, APIs & Blockchain</h3>
-
-<h3 align="left">More About Me:</h3>
-
-- 🌱 I’m currently learning: **DevOps, AI, and Computer Vision**
-- 🔭 I’m currently working on: **Murabbi, NUST**
-- 💬 Ask me about: **Wed development, AI/ML algorithms & models and Computer Vision techniques**
-- 📫 How to reach me: [ml129kmg@gmail.com](mailto:ml129kmg@gmail.com)
-
-<h3 align="left">Connect with me:</h3>
-<div class="social-icons-wrapper">
-<p style="text-align: left; display: flex; flex-wrap: wrap; align-items: center; gap: 8px;">
-<a href="https://github.com/MuhammadLateef" target="_blank" rel="noreferrer noopener" title="GitHub" class="social-icon-link">
-    <img src="https://cdn.simpleicons.org/github" alt="GitHub" height="35" width="35" style="vertical-align: middle;"/>
-  </a>
-  <a href="https://twitter.com/M_Latif129" target="_blank" rel="noreferrer noopener" title="Twitter / X" class="social-icon-link">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" alt="Twitter / X" height="35" width="35" style="vertical-align: middle;"/>
-  </a>
-  <a href="https://linkedin.com/in/latif129" target="_blank" rel="noreferrer noopener" title="LinkedIn" class="social-icon-link">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="35" width="35" style="vertical-align: middle;"/>
-  </a>
-  <a href="https://discord.com/users/muhammad.latif129" target="_blank" rel="noreferrer noopener" title="Discord" class="social-icon-link">
-    <img src="https://cdn.simpleicons.org/discord" alt="Discord" height="35" width="35" style="vertical-align: middle;"/>
-  </a>
-</p>
 </div>
 
-<div class="skills-section">
-<h3 align="left">Languages and Tools:</h3>
-<p style="text-align: left; display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
-<img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=sass" alt="Sass" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=tailwindcss" alt="Tailwind CSS" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=react" alt="React" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=redux" alt="Redux" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://cdn.simpleicons.org/figma" alt="Figma" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=npm" alt="npm" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=yarn" alt="Yarn" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="45" style="vertical-align: middle; margin: 5px;" />
-</p>
+---
+
+## About Me
+
+I'm a full-stack developer based in Pakistan with a strong focus on building scalable web applications and integrating AI-driven features. I enjoy working across the entire stack — from crafting clean, responsive UIs to architecting robust backend systems and deploying them with modern DevOps practices.
+
+- 🔭 **Currently working on:** Murabbi @ NUST
+- 🌱 **Currently learning:** DevOps, AI, and Computer Vision
+- 💬 **Ask me about:** Web development, AI/ML algorithms & models, and Computer Vision techniques
+- 📫 **Reach me at:** [ml129kmg@gmail.com](mailto:ml129kmg@gmail.com)
+
+---
+
+## Tech Stack
+
+### Languages
+![TypeScript](https://skillicons.dev/icons?i=typescript)
+![Python](https://skillicons.dev/icons?i=python)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![C++](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg&height=45)
+
+### Frontend
+![React](https://skillicons.dev/icons?i=react)
+![Redux](https://skillicons.dev/icons?i=redux)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+![Tailwind CSS](https://skillicons.dev/icons?i=tailwindcss)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![Sass](https://skillicons.dev/icons?i=sass)
+![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg)
+![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg)
+![Figma](https://cdn.simpleicons.org/figma)
+
+### Backend & Databases
+![Laravel](https://skillicons.dev/icons?i=laravel)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+
+### DevOps & Cloud
+![Docker](https://skillicons.dev/icons?i=docker)
+![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
+![AWS](https://skillicons.dev/icons?i=aws)
+![Jenkins](https://skillicons.dev/icons?i=jenkins)
+![Nginx](https://skillicons.dev/icons?i=nginx)
+
+### Tools
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VS Code](https://skillicons.dev/icons?i=vscode)
+![npm](https://skillicons.dev/icons?i=npm)
+![Yarn](https://skillicons.dev/icons?i=yarn)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MuhammadLateef&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&locale=en" height="170" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadLateef&locale=en&theme=tokyonight&layout=compact&hide_border=true" height="170" alt="Top Languages" />
+
+<img src="https://streak-stats.demolab.com/?user=MuhammadLateef&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## Connect with Me
+
+<div align="left">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadLateef)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/latif129)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/M_Latif129)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/muhammad.latif129)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ml129kmg@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Open to freelance and collaboration opportunities in full-stack development, DevOps, and AI/ML.</sub>
 </div>
