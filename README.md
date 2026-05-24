@@ -38,9 +38,7 @@ I'm a full-stack developer based in Pakistan with a strong focus on building sca
 ![Tailwind CSS](https://skillicons.dev/icons?i=tailwindcss)
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 ![Sass](https://skillicons.dev/icons?i=sass)
-![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg)
-![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg)
-![Figma](https://cdn.simpleicons.org/figma)
+
 
 ### Backend & Databases
 ![Laravel](https://skillicons.dev/icons?i=laravel)
